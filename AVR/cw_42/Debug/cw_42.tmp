@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\Debug/cw_42.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_42.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_42.map</FILE>
+  <FILE>cw_42.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>41</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>98</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>69</LINE></DelayInMs>
+  <Skip><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>65</LINE></Skip>
+  <loopbigInMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>72</LINE></loopbigInMs>
+  <DelayOneMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>81</LINE></DelayOneMs>
+  <loopOne><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>88</LINE></loopOne>
+  <Table><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>169</LINE></Table>
+  <Divide><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>137</LINE></Divide>
+  <InnerLoop><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>145</LINE></InnerLoop>
+  <DivByZero><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>162</LINE></DivByZero>
+  <skipq><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_42\cw_42.asm</FILE><LINE>158</LINE></skipq>
+ </LABELS>
+</ASSEMBLER_INFO>

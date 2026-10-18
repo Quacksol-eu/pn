@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\Debug/cw_43.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_43.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_43.map</FILE>
+  <FILE>cw_43.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>44</LINE></MainLoop>
+  <NoWrap><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>61</LINE></NoWrap>
+  <NumberToDigits><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>188</LINE></NumberToDigits>
+  <DelayInMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>73</LINE></DelayInMs>
+  <loopbigInMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>76</LINE></loopbigInMs>
+  <DelayOneMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>85</LINE></DelayOneMs>
+  <loopOne><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>92</LINE></loopOne>
+  <DigitTo7segCode><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>102</LINE></DigitTo7segCode>
+  <Table><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>226</LINE></Table>
+  <Divide><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>141</LINE></Divide>
+  <InnerLoop><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>149</LINE></InnerLoop>
+  <DivByZero><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>166</LINE></DivByZero>
+  <skipq><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_43\cw_43.asm</FILE><LINE>162</LINE></skipq>
+ </LABELS>
+</ASSEMBLER_INFO>
