@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\Debug/kolokwium.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>kolokwium.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>kolokwium.map</FILE>
+  <FILE>kolokwium.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <_main><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>93</LINE></_main>
+  <_timer_isr><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>64</LINE></_timer_isr>
+  <_pin_isr><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>47</LINE></_pin_isr>
+  <NumberToDigits><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>141</LINE></NumberToDigits>
+  <MainLoop><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>120</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>236</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>256</LINE></DelayInMs>
+  <Divide><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>201</LINE></Divide>
+  <DivByZero><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>224</LINE></DivByZero>
+  <InnerLoop><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>211</LINE></InnerLoop>
+  <skipq><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>220</LINE></skipq>
+  <Table><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>234</LINE></Table>
+  <loopbigInMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>260</LINE></loopbigInMs>
+  <OneMsLoop><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>272</LINE></OneMsLoop>
+  <L1><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\kolokwium\kolokwium.asm</FILE><LINE>278</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

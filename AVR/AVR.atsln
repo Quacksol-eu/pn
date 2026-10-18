@@ -103,6 +103,8 @@ Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "cw_48", "cw_48\cw_48.asmpro
 EndProject
 Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "cw_49", "cw_49\cw_49.asmproj", "{ACD0AE86-E56E-431E-8917-2B426844EF8A}"
 EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "kolokwium", "kolokwium\kolokwium.asmproj", "{544EBE6E-6D91-4F34-A863-5F5A7FE59D14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -313,6 +315,10 @@ Global
 		{ACD0AE86-E56E-431E-8917-2B426844EF8A}.Debug|AVR.Build.0 = Debug|AVR
 		{ACD0AE86-E56E-431E-8917-2B426844EF8A}.Release|AVR.ActiveCfg = Release|AVR
 		{ACD0AE86-E56E-431E-8917-2B426844EF8A}.Release|AVR.Build.0 = Release|AVR
+		{544EBE6E-6D91-4F34-A863-5F5A7FE59D14}.Debug|AVR.ActiveCfg = Debug|AVR
+		{544EBE6E-6D91-4F34-A863-5F5A7FE59D14}.Debug|AVR.Build.0 = Debug|AVR
+		{544EBE6E-6D91-4F34-A863-5F5A7FE59D14}.Release|AVR.ActiveCfg = Release|AVR
+		{544EBE6E-6D91-4F34-A863-5F5A7FE59D14}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
