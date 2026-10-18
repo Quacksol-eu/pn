@@ -22,9 +22,9 @@
  </OUTPUT_FILES>
  <LABELS>
   <MainLoop><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_35\cw_35.asm</FILE><LINE>29</LINE></MainLoop>
-  <DelayInMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_35\cw_35.asm</FILE><LINE>66</LINE></DelayInMs>
-  <loopbigInMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_35\cw_35.asm</FILE><LINE>69</LINE></loopbigInMs>
-  <DelayOneMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_35\cw_35.asm</FILE><LINE>78</LINE></DelayOneMs>
-  <loopOne><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_35\cw_35.asm</FILE><LINE>85</LINE></loopOne>
+  <DelayInMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_35\cw_35.asm</FILE><LINE>65</LINE></DelayInMs>
+  <loopbigInMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_35\cw_35.asm</FILE><LINE>68</LINE></loopbigInMs>
+  <DelayOneMs><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_35\cw_35.asm</FILE><LINE>77</LINE></DelayOneMs>
+  <loopOne><FILE>C:\Users\User\Desktop\Archiwum-MTM\PPN\AVR\cw_35\cw_35.asm</FILE><LINE>84</LINE></loopOne>
  </LABELS>
 </ASSEMBLER_INFO>
