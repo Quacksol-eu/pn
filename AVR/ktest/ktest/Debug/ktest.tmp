@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Desktop\ktest\ktest\ktest\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Desktop\ktest\ktest\ktest\Debug/ktest.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ktest.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ktest.map</FILE>
+  <FILE>ktest.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <_main><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>91</LINE></_main>
+  <_Timer_ISR><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>61</LINE></_Timer_ISR>
+  <_ExtInt_ISR><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>45</LINE></_ExtInt_ISR>
+  <_NumberToDigits><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>139</LINE></_NumberToDigits>
+  <MainLoop><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>118</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>241</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>261</LINE></DelayInMs>
+  <_Divide><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>205</LINE></_Divide>
+  <DivByZero><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>229</LINE></DivByZero>
+  <DivLoop><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>215</LINE></DivLoop>
+  <SkipDiv><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>224</LINE></SkipDiv>
+  <Table><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>239</LINE></Table>
+  <DelayLoop><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>265</LINE></DelayLoop>
+  <OneMsLoop><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>277</LINE></OneMsLoop>
+  <L1><FILE>C:\Users\User\Desktop\ktest\ktest\ktest\ktest.asm</FILE><LINE>283</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

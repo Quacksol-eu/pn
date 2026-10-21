@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "ktest", "ktest\ktest.asmproj", "{77CD1C4D-6DC9-4D59-91A1-53E0D0A94147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CD1C4D-6DC9-4D59-91A1-53E0D0A94147}.Debug|AVR.ActiveCfg = Debug|AVR
+		{77CD1C4D-6DC9-4D59-91A1-53E0D0A94147}.Debug|AVR.Build.0 = Debug|AVR
+		{77CD1C4D-6DC9-4D59-91A1-53E0D0A94147}.Release|AVR.ActiveCfg = Release|AVR
+		{77CD1C4D-6DC9-4D59-91A1-53E0D0A94147}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
