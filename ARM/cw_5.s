@@ -28,9 +28,9 @@ __use_two_region_memory
 	LDR R5, =(1<<17)|(1<<18)
 	STR R5, [R4]
 	
-	LDR     R4, =IOSET0
-    LDR     R5, =(1<<16)
-    STR     R5, [R4]
+	LDR R4, =IOSET0
+    LDR R5, =(1<<16)
+    STR R5, [R4]
 	
 		
 main_loop
